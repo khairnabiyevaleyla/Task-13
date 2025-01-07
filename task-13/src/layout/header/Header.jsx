@@ -16,7 +16,7 @@ const Header = () => {
   ];
 
   return (
-    <header className="py-5">
+    <header className="py-1 bg-[#FFFFFF] hidden sm:block md:block lg:block xl:block">
       <div className="container">
         <div className="grid grid-cols-3 items-center justify-align">
           <Logo />

@@ -2,9 +2,14 @@
 import { fetchAPI } from "./http/api"; */
 
 import Layout from "./layout";
+import Home from "./pages/home/index";
 
 const App = () => {
-  return <Layout></Layout>;
+  return (
+    <Layout>
+      <Home />
+    </Layout>
+  );
 };
 
 export default App;

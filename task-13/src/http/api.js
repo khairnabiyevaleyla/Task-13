@@ -1,9 +1,11 @@
 import axios from "axios";
-
-const httpInstance = axios.create({
-  baseURL: "http://localhost:3000",
+const axiosInstance = axios.create({
+  baseURL: "http://localhost:3001",
 });
 
-export const fetchAPI = async (url) => {
-  return httpInstance.get(url).then((res) => res.data);
+export const getAPI = async (url, cb) => {
+  return await axiosInstance.get(url).then((responce) => {
+    cb(responce.data);
+  });
 };
+s;
