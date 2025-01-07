@@ -8,4 +8,3 @@ export const getAPI = async (url, cb) => {
     cb(responce.data);
   });
 };
-s;

@@ -1,8 +1,8 @@
-const Category = ({ text }) => {
+const Category = ({ category }) => {
   return (
     <div className="pt-10 pb-5">
       <a className="category" href="/">
-        {text}
+        {category}
       </a>
     </div>
   );

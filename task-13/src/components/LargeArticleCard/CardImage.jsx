@@ -1,9 +1,9 @@
-const CardImage = () => {
+const CardImage = ({ image }) => {
   return (
-    <div className="w-[360px] h-[full]">
+    <div className="w-[360px] h-full">
       <img
-        src="https://flexiblog-minimal.netlify.app/static/637d816cd8a182db3f510acb35fe69ad/fc596/image.webp"
-        alt="cardimage"
+        src={image}
+        alt="Article Image"
         className="w-full h-full object-cover"
       />
     </div>
