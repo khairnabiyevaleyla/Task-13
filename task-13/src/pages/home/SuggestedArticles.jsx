@@ -1,5 +1,6 @@
 import Title from "../../components/title/Title";
 import LargeArticleCard from "../../components/LargeArticleCard/index";
+import SmallArticlesCard from "../../components/SmallArticlesCard/index";
 
 const SuggestedArticles = () => {
   return (
@@ -11,7 +12,9 @@ const SuggestedArticles = () => {
             <LargeArticleCard />
           </div>
 
-          <div className="col-span-4 bg-green-200">Колонка на 4 из 12</div>
+          <div className="col-span-4">
+            <SmallArticlesCard />
+          </div>
         </div>
       </div>
     </section>

@@ -7,5 +7,31 @@
     "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
     "authorname": "Jane Smith",
     "date": "June 22, 2020"
-  }
+  },
+  "smallarticles": [
+    {
+      "id": 1,
+      "title": "Make A Drink And We'll Tell You Where You'll Meet Your Soulmate",
+      "author": "John Doe",
+      "date": "March 20, 2020"
+    },
+    {
+      "id": 2,
+      "title": "Long-Lasting Fashion Items That Are Worth The Investment",
+      "author": "Sarah Doe",
+      "date": "March 19, 2020"
+    },
+    {
+      "id": 3,
+      "title": "20 Creative Pasta Recipes You'll Probably Want To Whip Up ASAP",
+      "author": "Sarah Doe",
+      "date": "March 11, 2020"
+    },
+    {
+      "id": 4,
+      "title": "I Went To Seattle With No Clothes The Empty Suitcase Show",
+      "author": "John Doe",
+      "date": "January 18, 2020"
+    }
+  ]
 }
