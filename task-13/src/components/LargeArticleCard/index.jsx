@@ -17,7 +17,7 @@ const LargeArticleCard = () => {
   }
 
   return (
-    <div className="rounded-2xl overflow-hidden flex flex-row bg-[#ffff] h-[470px]">
+    <div className="rounded-2xl overflow-hidden flex flex-row bg-[#ffff] h-[470px] shadow-md">
       <CardImage image={showData.image} />
       <LargeCardContent />
     </div>

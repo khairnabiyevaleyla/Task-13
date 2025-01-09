@@ -1,6 +1,6 @@
 const SmallCard = ({ title, author, date }) => {
   return (
-    <div className="py-5 px-4 bg-[#ffff] w-full h-[105px] rounded-2xl border-l-4 border-[#A2BFFA] ">
+    <div className="py-5 px-4 bg-[#ffff] w-full h-[105px] rounded-2xl border-l-4 border-[#A2BFFA] shadow-md">
       <div className="suggested-article">
         <div>
           <p className="text-[#2d3748] text-[16px] font-semibold leading-tight mb-2">

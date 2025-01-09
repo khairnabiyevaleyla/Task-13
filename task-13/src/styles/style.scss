@@ -39,6 +39,10 @@
   @apply text-[24px] text-[#2D3748] font-semibold leading-snug;
 }
 
+.small-article-title {
+  @apply text-[20px] text-[#2D3748] font-semibold leading-snug;
+}
+
 .description {
   @apply text-sm text-[#718096] font-light leading-loose;
 }

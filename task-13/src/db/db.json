@@ -33,5 +33,185 @@
       "author": "John Doe",
       "date": "January 18, 2020"
     }
+  ],
+
+  "articles": [
+    {
+      "id": 1,
+      "category": "Art & Culture",
+      "title": "Texoma Youth Turns Recycled Trash Into Art",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "image": "https://flexiblog-minimal.netlify.app/static/29d105c63cec64692957366decc72da1/fc596/image.webp",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 2,
+      "category": "Art & Culture",
+      "title": "21 Clean Jokes That Are So Dumb They're Actually Funny",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "image": "https://flexiblog-minimal.netlify.app/static/b8af84cd7806ab9d9a9733f6decf7f2b/fc596/image.webp",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/0f66d/steve-grant.webp",
+      "authorname": "Steve Grant",
+      "date": "May 12, 2020"
+    },
+    {
+      "id": 3,
+      "category": "Food & Drink",
+      "title": "21 Clean Jokes That Are So Dumb They're Actually Funny hello",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "image": "https://flexiblog-minimal.netlify.app/static/6b93cc53acdd3848c46dc33759ffc0fd/fc596/image.webp",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/8138313836cfae3b6c5ed951add51e76/0f66d/sarah-doe.webp",
+      "authorname": "Sarah Doe",
+      "date": "March 25, 2020"
+    }
+  ],
+  "articleswithoutimages": [
+    {
+      "id": 1,
+      "category": "Fashion & Beauty",
+      "title": "This US States Test Doesn't End Until",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 2,
+      "category": "Fashion & Beauty",
+      "title": "The Right Way to Apply Cream Blush",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/cc4c6b62392829f5c3658c6842218a69/0f66d/steve-grant.webp",
+      "authorname": "Steve Grant",
+      "date": "May 12, 2020"
+    },
+    {
+      "id": 3,
+      "category": "Food & Drink",
+      "title": "The Pleasure of Defying Food Fashions",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/8138313836cfae3b6c5ed951add51e76/0f66d/sarah-doe.webp",
+      "authorname": "Sarah Doe",
+      "date": "March 25, 2020"
+    },
+    {
+      "id": 4,
+      "category": "Food & Drink",
+      "title": "Are You A Pogue Or A Kook From Outer Banks?",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/8138313836cfae3b6c5ed951add51e76/0f66d/sarah-doe.webp",
+      "authorname": "Sarah Doe",
+      "date": "March 25, 2020"
+    },
+    {
+      "id": 5,
+      "category": "Art & Culture",
+      "title": "I Had My Mom Try To Describe 17 Disney Movies",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 6,
+      "category": "Food & Drink",
+      "title": "21 Clean Jokes That Are So Dumb They're Actually Funny",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/8138313836cfae3b6c5ed951add51e76/0f66d/sarah-doe.webp",
+      "authorname": "Sarah Doe",
+      "date": "March 25, 2020"
+    },
+    {
+      "id": 7,
+      "category": "Fashion & Beauty",
+      "title": "Fashion College Probes Runway Show Criticized",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 8,
+      "category": "Art & Culture",
+      "title": "I Had My Mom Try To Describe 17 Disney Movies",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 9,
+      "category": "Food & Drink",
+      "title": "This US States Test Doesn't End Until",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 10,
+      "category": "Food & Drink",
+      "title": "21 Clean Jokes That Are So Dumb They're Actually Funny",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/8138313836cfae3b6c5ed951add51e76/0f66d/sarah-doe.webp",
+      "authorname": "Sarah Doe",
+      "date": "March 25, 2020"
+    },
+    {
+      "id": 11,
+      "category": "Art & Culture",
+      "title": "I Had My Mom Try To Describe 17 Disney Movies",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 12,
+      "category": "Fashion & Beauty",
+      "title": "Fashion College Probes Runway Show Criticized",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 13,
+      "category": "Food & Drink",
+      "title": "21 Clean Jokes That Are So Dumb They're Actually Funny",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/8138313836cfae3b6c5ed951add51e76/0f66d/sarah-doe.webp",
+      "authorname": "Sarah Doe",
+      "date": "March 25, 2020"
+    },
+    {
+      "id": 14,
+      "category": "Art & Culture",
+      "title": "I Had My Mom Try To Describe 17 Disney Movies",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 15,
+      "category": "Art & Culture",
+      "title": "I Had My Mom Try To Describe 17 Disney Movies",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/41bc1caf29080d62bd156256ffb0cd6a/0f66d/jane-smith.webp",
+      "authorname": "Jane Smith",
+      "date": "June 21, 2020"
+    },
+    {
+      "id": 16,
+      "category": "Food & Drink",
+      "title": "The Pleasure of Defying Food Fashions",
+      "desc": "Primo in altis pelle alumnae Lorem markdownum obvius in seque opus, est bicorni forte; laeva…",
+      "authorimage": "https://flexiblog-minimal.netlify.app/static/8138313836cfae3b6c5ed951add51e76/0f66d/sarah-doe.webp",
+      "authorname": "Sarah Doe",
+      "date": "March 25, 2020"
+    }
   ]
 }

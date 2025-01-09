@@ -1,6 +1,7 @@
 import Title from "../../components/title/Title";
 import LargeArticleCard from "../../components/LargeArticleCard/index";
 import SmallArticlesCard from "../../components/SmallArticlesCard/index";
+import CardWithImage from "../../components/CardsWithImages/index";
 
 const SuggestedArticles = () => {
   return (
@@ -11,10 +12,12 @@ const SuggestedArticles = () => {
           <div className="col-span-12 md:col-span-8 sm:col-span-6">
             <LargeArticleCard />
           </div>
-
           <div className="col-span-4">
             <SmallArticlesCard />
           </div>
+        </div>
+        <div className="grid lg:grid-cols-3 sm:grid-cols-1 gap-4 mt-10 ">
+          <CardWithImage />
         </div>
       </div>
     </section>
