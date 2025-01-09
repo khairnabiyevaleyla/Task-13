@@ -13,8 +13,9 @@ const SmallArticlesCard = () => {
   if (!showData) {
     return <div>Loading...</div>;
   }
+
   return (
-    <div className="flex flex-wrap gap-4">
+    <div className="flex flex-col gap-4 w-full">
       {showData &&
         showData.map((card, index) => <SmallCard key={index} {...card} />)}
     </div>

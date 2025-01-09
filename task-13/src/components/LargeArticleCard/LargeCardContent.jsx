@@ -7,6 +7,7 @@ import { getAPI } from "../../http/api";
 
 const LargeCardContent = () => {
   const [showData, setShowData] = useState(null);
+
   useEffect(() => {
     getAPI("/largearticle", (data) => {
       setShowData(data);
@@ -18,7 +19,7 @@ const LargeCardContent = () => {
   }
 
   return (
-    <div className="p-10 w-[360px] h-[full]">
+    <div className="p-5 md:p-10 w-full md:w-[360px] flex flex-col justify-between">
       <Category category={showData.category} />
       <ArticleTitle title={showData.title} />
       <Description desc={showData.desc} />
