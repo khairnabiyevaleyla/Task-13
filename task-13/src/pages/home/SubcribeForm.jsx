@@ -29,7 +29,7 @@ const SubcribeForm = () => {
               <div className="submit-btn">
                 <button
                   type="submit"
-                  className="bg-[#667EEA] hover:bg-[#5a6dce] transition-all text-white text-sm sm:text-[14px] px-8 py-3 rounded-3xl"
+                  className="bg-[#667EEA] hover:bg-[#718096] transition-all text-white text-sm sm:text-[14px] px-8 py-3 rounded-3xl"
                 >
                   Subscribe
                 </button>
